@@ -14,16 +14,14 @@ The Hotel Booking App is a mobile application developed using Flutter framework.
 # Sample Video 
 <video src="https://github.com/Ritikkumar992/hotel_app/assets/75531808/67e17e05-174e-4ad5-87a1-1058f16519ac"> </video>
 
-## Screenshots
 
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/b3bae7f8-7674-4e57-aac0-05728802981d">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/662a76dc-2a54-4bbf-8980-6ece501ef3dc">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/185588d2-9795-40f1-84f6-3e980557aff8">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/1459c19b-afa2-4ecc-9be7-c0f869b19821">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/cfe961f5-49da-4cd5-b02f-7cdf5882a765">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/8dbde9cb-5a85-4c08-93c1-09c783a41395">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/06c68596-2c27-45b7-af89-259b7a364d90">
-<img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/261815ba-8cf0-424d-b009-f8d6e6eb2731">
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/662a76dc-2a54-4bbf-8980-6ece501ef3dc"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/185588d2-9795-40f1-84f6-3e980557aff8"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/1459c19b-afa2-4ecc-9be7-c0f869b19821"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/cfe961f5-49da-4cd5-b02f-7cdf5882a765"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/8dbde9cb-5a85-4c08-93c1-09c783a41395"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/06c68596-2c27-45b7-af89-259b7a364d90"> -->
+<!-- <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/261815ba-8cf0-424d-b009-f8d6e6eb2731"> -->
 
 
 ## Installation
