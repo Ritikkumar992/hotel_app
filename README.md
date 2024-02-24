@@ -11,6 +11,9 @@ The Hotel Booking App is a mobile application developed using Flutter framework.
 - View available hotels based on search criteria.
 - Book hotels with selected check-in and check-out dates.
 
+# Sample Video 
+<video src="https://github.com/Ritikkumar992/hotel_app/assets/75531808/67e17e05-174e-4ad5-87a1-1058f16519ac"> </video>
+
 ## Screenshots
 
 <img src = "https://github.com/Ritikkumar992/hotel_app/assets/75531808/b3bae7f8-7674-4e57-aac0-05728802981d">
